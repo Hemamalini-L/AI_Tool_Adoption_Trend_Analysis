@@ -1,4 +1,4 @@
-<img width="1262" height="1079" alt="Screenshot 2026-06-16 124045" src="https://github.com/user-attachments/assets/3a6debdf-9ae9-4411-b02a-eab2e9c3c16f" />
+
 # AI Tool Adoption Trend Analysis
 
 ## Overview
@@ -83,10 +83,6 @@ The dataset contains information from 5000 organizations including:
 
 <img width="1144" height="729" alt="Screenshot 2026-06-16 123922" src="https://github.com/user-attachments/assets/960e0cad-fdc4-4192-b3fd-80733bdf37df" />
 
-
-### Industry Adoption
-
-![Industry Adoption](images/industry_adoption.png)
 
 ### Correlation Heatmap
  # AI Tool Adoption Trend Analysis
@@ -221,44 +217,4 @@ The dataset contains information from 5000 organizations including:
 B.Tech Artificial Intelligence and Data Science
 
 
-
-### Segmentation Analysis
-
-![Segmentation](images/segmentation_chart.png)
-
 ---
-
-## Key Findings
-
-* AI adoption is growing rapidly across industries.
-* ChatGPT is among the most widely adopted AI tools.
-* Higher AI investment leads to increased savings.
-* Productivity improves with increased AI usage.
-* AI Leaders achieve higher ROI and satisfaction.
-
----
-
-## Business Recommendations
-
-1. Expand AI training programs.
-2. Encourage AI adoption across departments.
-3. Monitor ROI on AI investments.
-4. Focus on high-satisfaction AI tools.
-5. Develop long-term AI strategies.
-
----
-
-## Future Scope
-
-* AI Adoption Prediction Models
-* Industry Forecasting
-* Recommendation Systems
-* Real-Time AI Analytics Dashboards
-
----
-
-## Author
-
-**Hema Malini L**
-B.Tech Artificial Intelligence and Data Science
-
