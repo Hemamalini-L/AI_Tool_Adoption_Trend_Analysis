@@ -1,91 +1,6 @@
 
 # AI Tool Adoption Trend Analysis
 
-## Overview
-
-This project analyzes AI tool adoption trends across industries using statistical analysis, trend investigation, correlation analysis, hypothesis testing, and business intelligence techniques.
-
-The goal is to identify factors influencing AI adoption, productivity improvements, user satisfaction, and organizational ROI.
-
----
-
-## Problem Statement
-
-Artificial Intelligence tools are rapidly transforming organizations through automation, productivity enhancement, content generation, customer support, and decision-making. Organizations require data-driven insights to understand AI adoption trends and make informed investment decisions.
-
----
-
-## Dataset Description
-
-The dataset contains information from 5000 organizations including:
-
-* Organization ID
-* Industry
-* Company Size
-* Employee Count
-* AI Tool
-* Adoption Year
-* AI Investment
-* Productivity Gain
-* Annual Savings
-* Satisfaction Score
-* AI Usage Hours
-* ROI
-* Adoption Status
-
----
-
-## Project Workflow
-
-### Phase 1: Data Understanding
-
-* Dataset Exploration
-* Missing Value Analysis
-* Duplicate Detection
-* Statistical Summary
-
-### Phase 2: Descriptive Statistics
-
-* Mean
-* Median
-* Standard Deviation
-* Quartiles
-* Percentiles
-
-### Phase 3: Trend Analysis
-
-* Industry vs Adoption
-* Company Size vs Adoption
-* AI Tool vs Satisfaction
-* Adoption Growth Trends
-
-### Phase 4: Correlation Analysis
-
-* Productivity vs Adoption
-* Investment vs Savings
-* Usage vs Satisfaction
-
-### Phase 5: Hypothesis Testing
-
-* T-Test on Company Size and AI Adoption
-
-### Phase 6: Organization Segmentation
-
-* AI Leaders
-* Early Adopters
-* Slow Adopters
-
----
-
-## Visualizations
-
-### AI Tool Adoption
-
-<img width="1144" height="729" alt="Screenshot 2026-06-16 123922" src="https://github.com/user-attachments/assets/960e0cad-fdc4-4192-b3fd-80733bdf37df" />
-
-
-### Correlation Heatmap
- # AI Tool Adoption Trend Analysis
 
 ## Overview
 
@@ -213,7 +128,7 @@ The dataset contains information from 5000 organizations including:
 
 ## Author
 
-**Hema Malini L**
+**Hemamalini Loganathan**
 B.Tech Artificial Intelligence and Data Science
 
 
